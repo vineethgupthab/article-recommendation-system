@@ -41,7 +41,7 @@ The project is divided into two parts:
 - The recommendation engine relies on word vectors to determine the similarity between articles. The centroid of a document's cloud of word vectors is computed, and related articles are identified based on proximity in the 300-dimensional space.
 
 ## Efficiency of Loading the GloVe File
-### Efficient memory usage is crucial when processing the GloVe file. It is recommended to process the file one line at a time to optimize memory consumption.
+- Efficient memory usage is crucial when processing the GloVe file. It is recommended to process the file one line at a time to optimize memory consumption.
 
 ### Customization
 - You could use this project as a template to build similar or advanced recommendation system. You should be able to have the data in the ~/data folder (in the Home folder) then follow Part 1 and Part 2 instructions.
