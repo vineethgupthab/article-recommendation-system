@@ -14,6 +14,8 @@ The project is divided into two parts:
 - **Objective:** Implement functions to build a database of recommendations.
 - **Instructions:**
   - Download the GloVe word vectors and BBC articles dataset.
+    - GloVe Embeddings: `https://nlp.stanford.edu/projects/glove/`
+    - BBC articles: `http://mlg.ucd.ie/datasets/bbc.html`
   - Run `python doc2vec.py ~/data/glove.6B.300d.txt ~/data/bbc`.
   - Verify the generation of `articles.pkl` and `recommended.pkl` files.
  
