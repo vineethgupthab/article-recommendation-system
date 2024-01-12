@@ -28,10 +28,10 @@ The project is divided into two parts:
   - Use Jinja2 template language to generate HTML for the web pages.
  
 
-## Home Page Would look like the following image
+### Home Page Would look like the following image
 <img width="1404" alt="Screenshot 2024-01-11 at 6 48 09 PM" src="https://github.com/vineethgupthab/article_recommendation/assets/138868502/ff687f6c-53f2-4c02-a570-2dab69d7af0a">
 
-## If you click on any article, it will be redirected to the specific article and opens the content of the article on the left along with the similar articles suggested by our recommendation system to the right.
+### If you click on any article, it will be redirected to the specific article and opens the content of the article on the left along with the similar articles suggested by our recommendation system to the right.
 <img width="1443" alt="Screenshot 2024-01-11 at 6 48 30 PM" src="https://github.com/vineethgupthab/article_recommendation/assets/138868502/01b9ca68-889a-4620-99ac-199e020c447d">
 
 ## Discussion
