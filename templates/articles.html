@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Articles</title>
+</head>
+<style type="text/css">
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+</style>
+<body>
+
+<h1 style="">Articles</h1>
+
+<ul>
+    {% for a in articles %}
+    <p>
+        <a href="/article/{{a.0}}/{{a.1}}"target="_blank">{{a.2}}</a>
+    </p>
+    {% endfor %}
+</ul>
+
+</body>
+</html>
