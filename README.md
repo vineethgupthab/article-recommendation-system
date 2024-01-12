@@ -42,5 +42,5 @@ The project is divided into two parts:
 ### Efficient memory usage is crucial when processing the GloVe file. It is recommended to process the file one line at a time to optimize memory consumption.
 
 ### Customization
-- You could use this project as a template to build similar or advanced recommendation system. You should be able to have the data in the ~/data folder (in the Home folder) then then follow Part 1 and Part 2 instructions.
+- You could use this project as a template to build similar or advanced recommendation system. You should be able to have the data in the ~/data folder (in the Home folder) then follow Part 1 and Part 2 instructions.
 - You may be required to make small changes in the `articles.py` or `server.py` codes.
