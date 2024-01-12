@@ -29,7 +29,7 @@ The project is divided into two parts:
   - Implement Flask routes for the main list of articles and individual article pages.
   - Use Jinja2 template language to generate HTML for the web pages.
 
-<img width="469" alt="Screenshot 2024-01-12 at 11 22 29 AM" src="https://github.com/vineethgupthab/article_recommendation/assets/138868502/d4d47b2b-82c7-4c86-ae82-09bf85666fef">
+<img width="482" alt="Screenshot 2024-01-12 at 11 28 02 AM" src="https://github.com/vineethgupthab/article_recommendation/assets/138868502/509921c6-0325-47c5-8c28-21b82ab82ccd">
 
 #### Home Page Would look like the following image
 <img width="1404" alt="Screenshot 2024-01-11 at 6 48 09 PM" src="https://github.com/vineethgupthab/article_recommendation/assets/138868502/ff687f6c-53f2-4c02-a570-2dab69d7af0a">
